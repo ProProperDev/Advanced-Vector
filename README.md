@@ -1,2 +1,2 @@
 # Advanced-Vector
-Hello everyone! In this project we will implement the functional of std::vector. Lets go!
+Hello everyone! In this project we will make our own implementation of the std::vector. Lets go!
